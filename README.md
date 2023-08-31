@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gal Eindor</h1>
-<h3 align="center">Full Stack Developer with a </h3>
+<h3 align="center">Full Stack Developer with a passion to backend development </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif">
 
 
